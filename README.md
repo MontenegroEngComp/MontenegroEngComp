@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Clarisse Montenegro 👋
 
-<!--
-**MontenegroEngComp/MontenegroEngComp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Computação  
+💻 Focada em desenvolvimento Front-end e Full-stack  
+🌱 Atualmente trabalhando com Angular, React, TypeScript e .NET
 
-Here are some ideas to get you started:
+## Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Angular
+- React
+- Next.js
+- TypeScript
+- JavaScript
+- C#
+- .NET
+- PostgreSQL
+- Git & GitHub
+
+## Projetos em destaque
+
+### Korp Nexus
+Sistema de gerenciamento de estoque e emissão de notas fiscais.
+
+### MonitoraME
+Aplicação web voltada para análise de dados e oportunidades.
+
+### ASSIDUI
+Sistema de controle de frequência escolar.
+
+## Contato
+- LinkedIn: https://www.linkedin.com/in/montenegroengenhariadacomputacao
+- Email: montenegroengcomp@gmail.com
