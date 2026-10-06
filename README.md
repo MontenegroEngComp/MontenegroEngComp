@@ -1,4 +1,4 @@
-# Olá, eu sou Clarisse Montenegro 👋
+# Olá, eu sou a Clarisse Montenegro 👋
 
 🎓 Estudante de Engenharia de Computação  
 💻 Focada em desenvolvimento Front-end e Full-stack  
